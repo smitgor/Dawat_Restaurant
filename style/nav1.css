@@ -1,0 +1,29 @@
+#nav1{
+    overflow: hidden;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#nav1 a{
+    float: left;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+#nav1 img{
+    height:1em;
+    vertical-align:middle;
+    margin: 0;
+}
+.book-btn{
+    background-color: rgb(255, 86, 86);
+}
+
+.right-side1{
+    float: right;
+}
+hr{
+    margin:0px;
+    padding: 0px;
+    color: white;
+}

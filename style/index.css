@@ -1,0 +1,8 @@
+@import url("./nav1.css");
+@import url("./nav2.css");
+@import url("./home.css");
+
+body{
+    margin: 0px;
+    color: white;
+}
